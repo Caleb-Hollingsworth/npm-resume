@@ -1,6 +1,6 @@
 {
 	"name": "resume-caleb-hollingsworth",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "none",
 	"main": "index.js",
 	"scripts": {
@@ -10,5 +10,8 @@
 	"license": "ISC",
 	"bin": {
 		"your-command-here": "./index.js"
+	},
+	"dependencies": {
+		"colors": "^1.4.0"
 	}
 }
